@@ -1,9 +1,16 @@
 <div align="center">
 
-  <!-- Cinematic Cosmic Black Hole Header Banner (Live Relativistic Simulation) -->
-  <img src="assets/black_hole_live.gif" width="100%" alt="Live Relativistic Cosmic Black Hole" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8);" />
+  <!-- Cinematic Relativistic Black Hole (Astrophysical Raymarching Simulation) -->
+  <a href="https://aneekpal01.github.io/aneekpal01/" title="Click to launch interactive 3D simulation">
+    <img src="assets/black_hole_cinematic.gif" width="100%" alt="Cinematic Relativistic Black Hole" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.85);" />
+  </a>
 
-  <br/><br/>
+  <!-- Interactive 3D Simulation Badge -->
+  <p align="right" style="margin-top: 6px; margin-bottom: 8px;">
+    <a href="https://aneekpal01.github.io/aneekpal01/">
+      <img src="https://img.shields.io/badge/3D_Simulation-Launch_Interactive_WebGL-f59e0b?style=flat-square&logo=webgl&logoColor=white" alt="Launch 3D Simulation" />
+    </a>
+  </p>
 
   <!-- Glowing Header Title -->
   <h1 align="center" style="font-size: 36px; margin: 10px 0 5px 0;">
