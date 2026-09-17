@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Cinematic Cosmic Black Hole Header Banner -->
-  <img src="assets/black_hole_banner.jpg" width="100%" alt="Cosmic Black Hole Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8);" />
+  <!-- Cinematic Cosmic Black Hole Header Banner (Live Relativistic Simulation) -->
+  <img src="assets/black_hole_live.gif" width="100%" alt="Live Relativistic Cosmic Black Hole" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8);" />
 
   <br/><br/>
 
