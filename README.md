@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Social & Profile Metrics Badges -->
   <p align="center">
     <a href="https://github.com/aneekpal01">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -21,6 +21,7 @@
     <a href="mailto:aneekpal199400@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=aneekpal01&color=22c55e&style=for-the-badge&label=VIEWS" />
   </p>
 
 </div>
@@ -117,20 +118,13 @@ I'm **Aneek Pal**, an **AI Engineer & Full-Stack Developer** passionate about bu
 
 ---
 
-### 📊 GitHub Activity & Stats
+### ⚡ Engineering Philosophy
 
-<div align="center">
+> *"Code should be clean, architectures should be resilient, and edge machine learning pipelines should execute with zero wasted milliseconds."*
 
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aneekpal01&theme=tokyonight&border_radius=10&hide_border=true&card_width=480" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <!-- GitHub Stats & Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aneekpal01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Aneek's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneekpal01&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-
-</div>
+- 🔍 **Local-First AI**: Prioritizing edge computing and local ONNX/OpenCV pipelines over fragile cloud dependencies.
+- ⚡ **Asynchronous Systems**: Designing concurrent non-blocking APIs with FastAPI and SQLite connection pooling.
+- 🎨 **Modern Aesthetics**: Crafting intuitive, responsive liquid-glass user interfaces with React and Tailwind CSS.
 
 ---
 
