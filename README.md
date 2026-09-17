@@ -1,7 +1,14 @@
 <div align="center">
 
-  <!-- Header Futuristic Waving Neon Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23,0,150,136,0,255,136&height=220&section=header&text=Hi%20there,%20I'm%20Aneek%20Pal%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- Cinematic Cosmic Black Hole Header Banner -->
+  <img src="assets/black_hole_banner.jpg" width="100%" alt="Cosmic Black Hole Banner" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.8);" />
+
+  <br/><br/>
+
+  <!-- Glowing Header Title -->
+  <h1 align="center" style="font-size: 36px; margin: 10px 0 5px 0;">
+    🌌 Aneek Pal
+  </h1>
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/aneekpal01">
@@ -129,9 +136,6 @@ I'm **Aneek Pal**, an **AI Engineer & Full-Stack Developer** passionate about bu
 ---
 
 <div align="center">
-
-  <!-- Footer Waving Neon Graphic -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,23,0,150,136,0,255,136&height=100&section=footer" width="100%" />
 
   <sub>Crafted with passion by **Aneek Pal** © 2026</sub>
 
