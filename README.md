@@ -15,11 +15,11 @@
     <a href="https://github.com/aneekpal01">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
+    <a href="https://www.linkedin.com/in/aneekpal-47-71-111apal/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
     <a href="mailto:aneekpal199400@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
   </p>
 
@@ -27,23 +27,15 @@
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-```javascript
-const aneekPal = {
-  pronouns: "He / Him",
-  role: "Full-Stack Developer & AI Systems Builder",
-  focusAreas: [
-    "Computer Vision & Edge Biometrics",
-    "High-Performance Async Backend Architectures",
-    "Hybrid RAG & Vector Search Engines",
-    "Responsive Liquid-Glass Web Applications"
-  ],
-  coreTechnologies: ["Python", "FastAPI", "OpenCV", "PyTorch", "React 18", "SQLite", "PostgreSQL"],
-  currentProject: "SmartAttend-AI (Offline-capable Biometric Face & Retina Verification)",
-  funFact: "Obsessed with optimizing computer vision pipelines to run in under 40ms without cloud GPUs!"
-};
-```
+I'm **Aneek Pal**, an **AI Engineer & Full-Stack Developer** passionate about building real-world computer vision systems, edge biometric solutions, and high-performance web applications.
+
+- 🎓 **Education**: Alipurduar Government Engineering & Management College (**AGEMC**)
+- 💡 **Core Interests**: Computer Vision, Edge AI, Biometric Security, and Scalable Backend Systems
+- 🛠️ **Current Focus**: Architecting offline-first biometric authentication platforms and neural retrieval engines
+- 🚀 **Featured Work**: Creator of **SmartAttend-AI**, an autonomous dual-factor facial and retina verification attendance system
+- 🤝 **Connect**: Open to collaborations on open-source projects, AI research, and innovative engineering challenges
 
 ---
 
