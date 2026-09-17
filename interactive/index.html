@@ -433,16 +433,18 @@
 
                 float localTemp = tPt * innerRise * outerFade * gasDensity;
                 
-                // Relativistic Doppler Beaming
-                // Matter rotates counter-clockwise. Left side approaches observer
+                // Relativistic Doppler Beaming (softened to prevent flat blowout)
                 vec3 vPlasma = normalize(vec3(-hitPos.z, 0.0, hitPos.x));
                 float vDot = dot(vPlasma, -dir); // Alignment with ray
-                float beta = clamp(0.50 * sqrt(1.0 / rRel), 0.0, 0.65);
+                float beta = clamp(0.48 * sqrt(1.0 / rRel), 0.0, 0.62);
                 float gamma = 1.0 / sqrt(1.0 - beta * beta);
                 float dopplerFactor = 1.0 / (gamma * (1.0 - beta * vDot));
-                dopplerFactor = clamp(pow(dopplerFactor, 3.1), 0.24, 4.4);
+                dopplerFactor = clamp(pow(dopplerFactor, 2.2), 0.35, 2.6);
 
-                vec3 emission = blackbodyColor(localTemp, dopplerFactor);
+                // Tonal Reinhard compression: preserves fine plasma texture on bright side
+                float rawRad = localTemp * dopplerFactor;
+                float mappedRad = (rawRad * 1.5) / (1.0 + 0.42 * rawRad);
+                vec3 emission = blackbodyColor(mappedRad, 1.0);
 
                 // Optical thickness & alpha accumulation
                 float alpha = clamp(localTemp * 1.45, 0.0, 0.98);
