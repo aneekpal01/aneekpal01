@@ -121,18 +121,6 @@ I'm **Aneek Pal**, an **AI Engineer & Full-Stack Developer** passionate about bu
   </tr>
 </table>
 
----
-
-### ⚡ Engineering Philosophy
-
-> *"Code should be clean, architectures should be resilient, and edge machine learning pipelines should execute with zero wasted milliseconds."*
-
-- 🔍 **Local-First AI**: Prioritizing edge computing and local ONNX/OpenCV pipelines over fragile cloud dependencies.
-- ⚡ **Asynchronous Systems**: Designing concurrent non-blocking APIs with FastAPI and SQLite connection pooling.
-- 🎨 **Modern Aesthetics**: Crafting intuitive, responsive liquid-glass user interfaces with React and Tailwind CSS.
-
----
-
 <div align="center">
 
   <sub>Crafted with passion by **Aneek Pal** © 2026</sub>
