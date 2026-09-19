@@ -1,30 +1,21 @@
 <div align="center">
-
-  <!-- Cinematic Relativistic Black Hole (Astrophysical Raymarching Simulation) -->
   <a href="https://aneekpal01.github.io/aneekpal01/" title="Click to launch interactive 3D simulation">
     <img src="assets/black_hole_cinematic.gif" width="100%" alt="Cinematic Relativistic Black Hole" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.85);" />
   </a>
-
-  <!-- Interactive 3D Simulation Badge -->
   <p align="right" style="margin-top: 6px; margin-bottom: 8px;">
     <a href="https://aneekpal01.github.io/aneekpal01/">
       <img src="https://img.shields.io/badge/3D_Simulation-Launch_Interactive_WebGL-f59e0b?style=flat-square&logo=webgl&logoColor=white" alt="Launch 3D Simulation" />
     </a>
   </p>
-
-  <!-- Glowing Header Title -->
   <h1 align="center" style="font-size: 36px; margin: 10px 0 5px 0;">
-    🌌 Aneek Pal
+     Aneek Pal
   </h1>
-
-  <!-- Typing SVG Animation -->
   <a href="https://github.com/aneekpal01">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=620&lines=Full-Stack+%26+AI+Systems+Developer;Computer+Vision+%7C+OpenCV+%7C+FastAPI+%7C+React;Creator+of+SmartAttend-AI;Building+Scalable+Biometric+Architectures;Developing+Hybrid+RAG+%26+Deep+Learning+Pipelines" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Profile Metrics Badges -->
   <p align="center">
     <a href="https://github.com/aneekpal01">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
