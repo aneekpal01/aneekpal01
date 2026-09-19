@@ -30,7 +30,7 @@
       width: 100%;
       height: 100%;
     }
-    /* Minimal Non-Intrusive HUD */
+   
     .overlay-header {
       position: absolute;
       top: 24px;
@@ -84,7 +84,6 @@
       color: #94a3b8;
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
     }
-    /* Controls Footer */
     .overlay-footer {
       position: absolute;
       bottom: 24px;
@@ -137,7 +136,7 @@
       color: #ffffff;
       transform: translateY(-1px);
     }
-    /* Fallback warning if WebGL unavailable */
+  
     #fallback-warning {
       display: none;
       position: absolute;
@@ -206,7 +205,6 @@
         return;
       }
 
-      // Vertex Shader: Fullscreen Quad
       const vsSource = `#version 300 es
         in vec2 a_position;
         void main() {
@@ -214,7 +212,7 @@
         }
       `;
 
-      // Fragment Shader: Relativistic Raymarching with Curved Spacetime Gravitational Lensing
+    ing
       const fsSource = `#version 300 es
         precision highp float;
 
@@ -505,7 +503,6 @@
         }
       `;
 
-      // Compile Shader Helper
       function createShader(gl, type, source) {
         const shader = gl.createShader(type);
         gl.shaderSource(shader, source);
@@ -530,7 +527,7 @@
         return;
       }
 
-      // Fullscreen Quad Geometry
+    
       const positionBuffer = gl.createBuffer();
       gl.bindBuffer(gl.ARRAY_BUFFER, positionBuffer);
       gl.bufferData(
@@ -552,13 +549,12 @@
       gl.enableVertexAttribArray(posLoc);
       gl.vertexAttribPointer(posLoc, 2, gl.FLOAT, false, 0, 0);
 
-      // Uniform Locations
+  
       const uResLoc = gl.getUniformLocation(program, "u_resolution");
       const uTimeLoc = gl.getUniformLocation(program, "u_time");
       const uMouseLoc = gl.getUniformLocation(program, "u_mouse");
       const uMotionScaleLoc = gl.getUniformLocation(program, "u_motion_scale");
 
-      // State Management
       let targetMouseX = 0.5;
       let targetMouseY = 0.5;
       let mouseX = 0.5;
@@ -569,7 +565,6 @@
       let motionScale = 1.0;
       let isVisible = true;
 
-      // Handle Reduced Motion Preference
       const mediaQuery = window.matchMedia("(prefers-reduced-motion: reduce)");
       if (mediaQuery.matches) {
         motionScale = 0.2;
@@ -578,7 +573,6 @@
         motionScale = e.matches ? 0.2 : 1.0;
       });
 
-      // Pause button
       const toggleBtn = document.getElementById("toggle-motion");
       const motionIcon = document.getElementById("motion-icon");
       let isPaused = false;
@@ -589,7 +583,6 @@
         toggleBtn.firstChild.nextSibling.textContent = isPaused ? " Resume Spin" : " Pause Spin";
       });
 
-      // Mouse & Touch Controls with Inertia
       window.addEventListener("mousedown", (e) => {
         isDragging = true;
         lastClientX = e.clientX;
@@ -597,11 +590,10 @@
       });
       window.addEventListener("mousemove", (e) => {
         if (!isDragging) {
-          // Subtle mouse parallax
+        
           targetMouseX = 0.5 + (e.clientX / window.innerWidth - 0.5) * 0.15;
           targetMouseY = 0.5 + (e.clientY / window.innerHeight - 0.5) * 0.15;
         } else {
-          // Active orbital drag
           const dx = e.clientX - lastClientX;
           const dy = e.clientY - lastClientY;
           targetMouseX += dx * 0.0035;
@@ -620,7 +612,6 @@
         }
       });
 
-      // Resize handler with DPI clamp
       function handleResize() {
         const dpr = Math.min(window.devicePixelRatio || 1, 1.5);
         const w = Math.floor(window.innerWidth * dpr);
@@ -634,13 +625,12 @@
       window.addEventListener("resize", handleResize);
       handleResize();
 
-      // Intersection Observer for zero GPU waste when tab/element hidden
       const observer = new IntersectionObserver((entries) => {
         isVisible = entries[0].isIntersecting;
       }, { threshold: 0.1 });
       observer.observe(canvas);
 
-      // Render Loop
+   
       let startTime = performance.now();
       let lastFpsTime = startTime;
       let frameCount = 0;
@@ -650,7 +640,6 @@
         requestAnimationFrame(render);
         if (!isVisible) return;
 
-        // Smooth mouse damping
         mouseX += (targetMouseX - mouseX) * 0.08;
         mouseY += (targetMouseY - mouseY) * 0.08;
 
@@ -666,7 +655,6 @@
 
         gl.drawArrays(gl.TRIANGLES, 0, 6);
 
-        // Calculate and display real-time FPS
         frameCount++;
         if (now - lastFpsTime >= 1000) {
           const fps = Math.round((frameCount * 1000) / (now - lastFpsTime));
