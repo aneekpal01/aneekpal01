@@ -37,7 +37,7 @@
 
 I'm **Aneek Pal**, an **AI Engineer & Full-Stack Developer** passionate about building real-world computer vision systems, edge biometric solutions, and high-performance web applications.
 
-- 🎓 **Education**: Alipurduar Government Engineering & Management College (**AGEMC**)
+- 🎓 **Education**: Alipurduar Government Engineering & Management College (**AGEMC**) (Temp.)
 - 💡 **Core Interests**: Computer Vision, Edge AI, Biometric Security, and Scalable Backend Systems
 - 🛠️ **Current Focus**: Architecting offline-first biometric authentication platforms and neural retrieval engines
 - 🚀 **Featured Work**: Creator of **SmartAttend-AI**, an autonomous dual-factor facial and retina verification attendance system
