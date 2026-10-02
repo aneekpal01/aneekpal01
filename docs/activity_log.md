@@ -6,3 +6,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [14:31:17] perf: reduce memory bandwidth with efficient fullscreen quad attributes
 - [17:28:19] docs: add mathematical breakdown of photon sphere resonance equations
 - [21:35:23] docs: update project portfolio roadmap and upcoming milestones
+- [11:24:26] test: verify WebGL2 rendering compatibility across Chromium and WebKit
