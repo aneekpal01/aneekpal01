@@ -13,3 +13,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [22:28:58] perf: tune numerical geodesic integration step size for smooth 60fps
 - [09:31:39] chore: maintenance update for dependency manifests and asset hashes
 - [14:53:51] perf: micro-benchmark fragment shader texture-free procedural noise
+- [16:54:57] docs: expand documentation on gravitational lensing deflection angle
