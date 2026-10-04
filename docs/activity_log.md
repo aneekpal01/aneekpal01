@@ -17,3 +17,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [10:38:52] feat(webgl): optimize raymarching step bounds for Schwarzschild metric
 - [13:29:08] refactor: streamline relativistic Doppler beaming shader routines
 - [17:27:16] docs: update README interactive visualizer instructions
+- [20:50:32] feat(stars): add procedural hash distribution for background starfield
