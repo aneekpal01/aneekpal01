@@ -18,3 +18,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [13:29:08] refactor: streamline relativistic Doppler beaming shader routines
 - [17:27:16] docs: update README interactive visualizer instructions
 - [20:50:32] feat(stars): add procedural hash distribution for background starfield
+- [11:45:05] feat(astrophysics): refine Page-Thorne accretion disk thermal profile
