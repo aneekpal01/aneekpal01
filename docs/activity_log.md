@@ -24,3 +24,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [21:30:55] docs: update project portfolio roadmap and upcoming milestones
 - [22:10:25] docs: add citations for general relativity raymarching formulas
 - [09:52:18] test: verify WebGL2 rendering compatibility across Chromium and WebKit
+- [13:51:42] feat: improve touch drag inertia and orbital camera responsiveness
