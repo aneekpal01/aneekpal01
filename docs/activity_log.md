@@ -25,3 +25,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [22:10:25] docs: add citations for general relativity raymarching formulas
 - [09:52:18] test: verify WebGL2 rendering compatibility across Chromium and WebKit
 - [13:51:42] feat: improve touch drag inertia and orbital camera responsiveness
+- [16:53:54] feat: tune magnetic reconnection flare thresholds on inner ISCO boundary
