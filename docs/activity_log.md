@@ -51,3 +51,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [13:47:24] refactor: streamline relativistic Doppler beaming shader routines
 - [16:51:48] docs: update README interactive visualizer instructions
 - [10:11:49] feat(astrophysics): refine Page-Thorne accretion disk thermal profile
+- [14:23:41] perf: reduce memory bandwidth with efficient fullscreen quad attributes
