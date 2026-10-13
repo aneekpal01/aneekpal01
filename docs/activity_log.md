@@ -50,3 +50,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [09:49:36] feat(webgl): optimize raymarching step bounds for Schwarzschild metric
 - [13:47:24] refactor: streamline relativistic Doppler beaming shader routines
 - [16:51:48] docs: update README interactive visualizer instructions
+- [10:11:49] feat(astrophysics): refine Page-Thorne accretion disk thermal profile
