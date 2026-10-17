@@ -70,3 +70,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [14:32:49] perf: reduce memory bandwidth with efficient fullscreen quad attributes
 - [18:36:23] docs: add mathematical breakdown of photon sphere resonance equations
 - [21:40:31] docs: update project portfolio roadmap and upcoming milestones
+- [22:28:13] docs: add citations for general relativity raymarching formulas
