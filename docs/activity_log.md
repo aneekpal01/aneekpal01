@@ -71,3 +71,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [18:36:23] docs: add mathematical breakdown of photon sphere resonance equations
 - [21:40:31] docs: update project portfolio roadmap and upcoming milestones
 - [22:28:13] docs: add citations for general relativity raymarching formulas
+- [09:46:54] test: verify WebGL2 rendering compatibility across Chromium and WebKit
