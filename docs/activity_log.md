@@ -76,3 +76,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [16:49:42] feat: tune magnetic reconnection flare thresholds on inner ISCO boundary
 - [10:53:07] chore: maintenance update for dependency manifests and asset hashes
 - [14:54:23] perf: micro-benchmark fragment shader texture-free procedural noise
+- [17:22:01] docs: expand documentation on gravitational lensing deflection angle
