@@ -80,3 +80,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [21:50:17] fix(shader): enhance float precision across mobile WebGL implementations
 - [11:15:20] feat(webgl): optimize raymarching step bounds for Schwarzschild metric
 - [13:30:40] refactor: streamline relativistic Doppler beaming shader routines
+- [18:35:20] docs: update README interactive visualizer instructions
