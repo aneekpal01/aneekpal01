@@ -88,3 +88,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [16:48:39] docs: add mathematical breakdown of photon sphere resonance equations
 - [10:29:46] test: verify WebGL2 rendering compatibility across Chromium and WebKit
 - [13:52:14] feat: improve touch drag inertia and orbital camera responsiveness
+- [17:21:58] feat: tune magnetic reconnection flare thresholds on inner ISCO boundary
