@@ -89,3 +89,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [10:29:46] test: verify WebGL2 rendering compatibility across Chromium and WebKit
 - [13:52:14] feat: improve touch drag inertia and orbital camera responsiveness
 - [17:21:58] feat: tune magnetic reconnection flare thresholds on inner ISCO boundary
+- [20:40:26] feat: enhance vignette and contrast falloff for cinematic depth
