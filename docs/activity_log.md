@@ -97,3 +97,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [22:37:07] style: polish HUD control typography and dark aesthetic
 - [09:43:12] feat(webgl): optimize raymarching step bounds for Schwarzschild metric
 - [13:39:48] refactor: streamline relativistic Doppler beaming shader routines
+- [16:47:36] docs: update README interactive visualizer instructions
