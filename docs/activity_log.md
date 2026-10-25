@@ -100,3 +100,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [16:47:36] docs: update README interactive visualizer instructions
 - [10:50:25] feat(astrophysics): refine Page-Thorne accretion disk thermal profile
 - [14:50:05] perf: reduce memory bandwidth with efficient fullscreen quad attributes
+- [17:20:55] docs: add mathematical breakdown of photon sphere resonance equations
