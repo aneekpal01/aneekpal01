@@ -111,3 +111,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [14:37:39] perf: micro-benchmark fragment shader texture-free procedural noise
 - [16:46:33] docs: expand documentation on gravitational lensing deflection angle
 - [10:26:04] feat(webgl): optimize raymarching step bounds for Schwarzschild metric
+- [13:48:56] refactor: streamline relativistic Doppler beaming shader routines
