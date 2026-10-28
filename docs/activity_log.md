@@ -112,3 +112,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [16:46:33] docs: expand documentation on gravitational lensing deflection angle
 - [10:26:04] feat(webgl): optimize raymarching step bounds for Schwarzschild metric
 - [13:48:56] refactor: streamline relativistic Doppler beaming shader routines
+- [17:19:52] docs: update README interactive visualizer instructions
