@@ -116,3 +116,4 @@ Daily automated and manual engineering progress for Aneek Pal.
 - [20:45:44] feat(stars): add procedural hash distribution for background starfield
 - [11:33:17] feat(astrophysics): refine Page-Thorne accretion disk thermal profile
 - [14:24:13] perf: reduce memory bandwidth with efficient fullscreen quad attributes
+- [18:32:11] docs: add mathematical breakdown of photon sphere resonance equations
